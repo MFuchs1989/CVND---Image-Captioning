@@ -2,6 +2,11 @@
 [image1]: ./images/encoder.png "Image Captioning"
 [image2]: ./images/decoder.png "Image Captioning"
 
+[image3]: ./images/Sample Image 1.png "Image Captioning"
+[image4]: ./images/Sample Image 2.png "Image Captioning"
+[image5]: ./images/Sample Image 3.png "Image Captioning"
+[image6]: ./images/Sample Image 4.png "Image Captioning"
+
 # Introduction
 The repository contains a neural network, which can automatically generate captions from images. 
 
@@ -17,8 +22,10 @@ The solution architecture consists of:
 # Results
 These are some of the outputs give by the network using the [COCO dataset](http://cocodataset.org/):
 
-
-
+![Image Captioning][image3]
+![Image Captioning][image4]
+![Image Captioning][image5]
+![Image Captioning][image6]
 
 
 # Instructions  
