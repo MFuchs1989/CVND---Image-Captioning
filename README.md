@@ -5,6 +5,7 @@ The repository contains a neural network, which can automatically generate capti
 The solution architecture consists of:
 1. CNN encoder, which encodes the images into the embedded feature vectors:
 
+[//]: # (Image References)
 [image1]: ./images/encoder.png "Image Captioning"
 
 2. Decoder, which is a sequential neural network consisting of LSTM units, which translates the feature vector into a sequence of tokens:
