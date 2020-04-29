@@ -1,4 +1,14 @@
-# CVND---Image-Captioning-Project
+# Introduction
+The repository contains a neural network, which can automatically generate captions from images. 
+
+# Network Architecture
+The solution architecture consists of:
+1. CNN encoder, which encodes the images into the embedded feature vectors:
+![image](https://github.com/MFuchs1989/CVND-Image-Captioning/tree/master/images/encoder.png)
+2. Decoder, which is a sequential neural network consisting of LSTM units, which translates the feature vector into a sequence of tokens:
+![image](https://github.com/MFuchs1989/CVND-Image-Captioning/tree/master/images/decoder.png)
+
+
 
 # Instructions  
 1. Clone this repo: https://github.com/cocodataset/cocoapi  
