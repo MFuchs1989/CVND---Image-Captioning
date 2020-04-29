@@ -1,16 +1,23 @@
+[//]: # (Image References)
+[image1]: ./images/encoder.png "Image Captioning"
+[image2]: ./images/decoder.png "Image Captioning"
+
 # Introduction
 The repository contains a neural network, which can automatically generate captions from images. 
 
 # Network Architecture
 The solution architecture consists of:
 1. CNN encoder, which encodes the images into the embedded feature vectors:
-
-[//]: # (Image References)
-[image1]: ./images/encoder.png "Image Captioning"
+![Image Captioning][image1]
 
 2. Decoder, which is a sequential neural network consisting of LSTM units, which translates the feature vector into a sequence of tokens:
+![Image Captioning][image2]
 
-![image](https://github.com/MFuchs1989/CVND-Image-Captioning/tree/master/images/decoder.png)
+
+# Results
+These are some of the outputs give by the network using the [COCO dataset](http://cocodataset.org/):
+
+
 
 
 
