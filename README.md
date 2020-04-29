@@ -2,10 +2,10 @@
 [image1]: ./images/encoder.png "Image Captioning"
 [image2]: ./images/decoder.png "Image Captioning"
 
-[image3]: ./images/Sample Image 1.png "Image Captioning"
-[image4]: ./images/Sample Image 2.png "Image Captioning"
-[image5]: ./images/Sample Image 3.png "Image Captioning"
-[image6]: ./images/Sample Image 4.png "Image Captioning"
+[image3]: ./images/SampleImage1.png "Image Captioning"
+[image4]: ./images/SampleImage2.png "Image Captioning"
+[image5]: ./images/SampleImage3.png "Image Captioning"
+[image6]: ./images/SampleImage4.png "Image Captioning"
 
 # Introduction
 The repository contains a neural network, which can automatically generate captions from images. 
